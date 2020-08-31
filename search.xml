@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>转载文章测试</title>
+      <link href="/2020/08/31/%E8%BD%AC%E8%BD%BD%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/"/>
+      <url>/2020/08/31/%E8%BD%AC%E8%BD%BD%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/</url>
+      
+        <content type="html"><![CDATA[<h1 id="MarkDown教程"><a href="#MarkDown教程" class="headerlink" title="MarkDown教程"></a>MarkDown教程</h1><ul><li>Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。</li><li>Markdown 语言在 2004 由约翰·格鲁伯（英语：John Gruber）创建。</li><li>Markdown 编写的文档可以导出 HTML 、Word、图像、PDF、Epub 等多种格式的文档。</li><li>Markdown 编写的文档后缀为 .md, .markdown。</li></ul><h2 id="MarkDown标题"><a href="#MarkDown标题" class="headerlink" title="MarkDown标题"></a>MarkDown标题</h2><p>MarkDown标题有两种格式。</p><h3 id="1、使用-和-标记一级和二级标题"><a href="#1、使用-和-标记一级和二级标题" class="headerlink" title="1、使用 = 和 - 标记一级和二级标题"></a>1、使用 = 和 - 标记一级和二级标题</h3><p>= 和 - 标记语法格式如下：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">我展示的是一级标题</span><br><span class="line">&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;</span><br><span class="line"></span><br><span class="line">我展示的是二级标题</span><br><span class="line">-----------------</span><br></pre></td></tr></table></figure><p><img src="https://cdn.jsdelivr.net/gh/BryanWEI/images/articles/%E8%BD%AC%E8%BD%BD%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/postPage1.jpg" alt=""></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的博客</title>
       <link href="/2020/07/29/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
       <url>/2020/07/29/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</url>
@@ -27,7 +46,7 @@
       <link href="/2020/07/29/test-my-site/"/>
       <url>/2020/07/29/test-my-site/</url>
       
-        <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><p>段落<br><em>斜体文本</em><br><em>斜体文本</em><br><strong>粗体文本</strong><br>&lt;u&gt;<strong>粗体文本</strong>&lt;/u&gt;<br><del><u>带下划线文本</u></del><br><strong><em>粗斜体文本</em></strong><a href="">^test</a><br><a href="">^test</a>: hihihihihi<br>创建脚注格式类似这样 <a href="">^RUNOOB</a>。</p><p><a href="">^RUNOOB</a>: 菜鸟教程 – 学的不仅是技术，更是梦想！！！<br><strong><em>粗斜体文本</em></strong></p><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><ol><li>第一</li></ol><ul><li>第一内容</li></ul><ol start="2"><li>第二</li></ol><ul><li>第二内容<h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><blockquote><p>区块第一段<br>区块第二段<br>区块第三段</p></blockquote><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4></li></ul><ul><li>第一<blockquote><p>第一内容<br>第二内容</p></blockquote></li><li>第二<blockquote><p>第三内容<br>第四内容</p></blockquote></li></ul><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><pre><code><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">List&lt;Map&gt; giftCoupons = couponsTemplateMapper.giftCouponAccountQuery(paramsMap);</span><br><span class="line">Map giftCpnMap = <span class="keyword">new</span> HashMap();</span><br></pre></td></tr></table></figure></code></pre><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><p>这是一个链接：<a href="https://www.baidu.com">百度</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><p>段落<br><em>斜体文本</em><br><em>斜体文本</em><br><strong>粗体文本</strong><br>&lt;u&gt;<strong>粗体文本</strong>&lt;/u&gt;<br><del><u>带下划线文本</u></del><br><strong><em>粗斜体文本</em></strong><a href="">^test</a><br><a href="">^test</a>: hihihihihi<br>创建脚注格式类似这样 <a href="">^RUNOOB</a>。</p><p><a href="">^RUNOOB</a>: 菜鸟教程 – 学的不仅是技术，更是梦想！！！<br><strong><em>粗斜体文本</em></strong></p><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><ol><li>第一</li></ol><ul><li>第一内容</li></ul><ol start="2"><li>第二</li></ol><ul><li>第二内容<h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><blockquote><p>区块第一段<br>区块第二段<br>区块第三段</p></blockquote><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4></li></ul><ul><li>第一<blockquote><p>第一内容<br>第二内容</p></blockquote></li><li>第二<blockquote><p>第三内容<br>第四内容</p></blockquote></li></ul><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><pre><code><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">List&lt;Map&gt; giftCoupons = couponsTemplateMapper.giftCouponAccountQuery(paramsMap);</span><br><span class="line">Map giftCpnMap = <span class="keyword">new</span> HashMap();</span><br></pre></td></tr></table></figure></code></pre><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><p>这是一个链接：<a href="https://www.baidu.com">百度</a></p><h6 id="七级标题"><a href="#七级标题" class="headerlink" title="七级标题"></a>七级标题</h6><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">List&lt;Map&gt; giftCoupons &#x3D; couponsTemplateMapper.giftCouponAccountQuery(paramsMap);</span><br><span class="line">Map giftCpnMap &#x3D; new HashMap();</span><br></pre></td></tr></table></figure>]]></content>
       
       
       
